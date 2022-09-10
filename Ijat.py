@@ -9,8 +9,8 @@ WELCOME TO TOOLS BY Ijat Ultranen DON'T REMAKE ORIGIN TO THE XNXN DDOS IJAT COMM
 print("\033[0m")
 print("\033[94mCode By Ijat Ultamen| XNXNX IJAT DDOS | HAVE FUN")
 print("\033[0m")
-print("Tunggu 3 Detik Baca Dulu...")
-time.sleep(3)
+print("Tunggu 5 Detik Baca Dulu...")
+time.sleep(5)
 
 os.system("clear")
 print("""\033[95m
@@ -47,11 +47,11 @@ username = str(input("\033[94m[IJAT] \033[93mUsername:"))
 password = str(input("\033[94m[IJAT] \033[93mPassword:"))
 if password == "Ijat" and username == "Ijat":
     print ("Telah Masuk Sebagai Ultramen Ijat")
-    time.sleep(1)
+    time.sleep(4)
 
 os.system("clear")
 print("\033[92mConnecting To Tools Ijat [\033[97m•\033[92m]")
-time.sleep(0.5)
+time.sleep(5)
 
 nicknm = "Ultramen"
 os.system("clear")
